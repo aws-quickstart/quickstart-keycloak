@@ -53,3 +53,5 @@ yarn-error.log*
 !/tsconfig.eslint.json
 !/tsconfig.jest.json
 !/tsconfig.json
+.pre-commit-config.yaml
+.editorconfig
