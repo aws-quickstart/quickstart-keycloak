@@ -47,7 +47,7 @@
   "dependencies": {
     "@aws-cdk/assert": "^1.121.0",
     "@aws-cdk/core": "^1.121.0",
-    "cdk-keycloak": "^0.2.40"
+    "cdk-keycloak": "^0.2.41"
   },
   "bundledDependencies": [],
   "license": "Apache-2.0",
